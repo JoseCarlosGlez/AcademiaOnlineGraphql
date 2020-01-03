@@ -1,9 +1,9 @@
-#Academy online GraphQL
+# Academy online GraphQL
 
 Online school simulator, is a course search and add, update, delete course oj a "DataBase" from json file
 
 
-##Installation 
+## Installation 
 
 1.- Install Node and Typescript
 
